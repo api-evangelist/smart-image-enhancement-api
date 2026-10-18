@@ -39,7 +39,8 @@ apis:
   - name: Smart Image Enhancement API
     description: "Performs image upscaling by adding detail to images through multiple super-resolution algorithms"
     humanURL: https://apilayer.com/marketplace/image_enhancement-api
-    tags:
+    tags: []
+    tags_raw:
       - Documents And Productivity
     properties:
       - type: Documentation
